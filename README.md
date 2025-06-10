@@ -1,6 +1,6 @@
 # Rethinking Crowd-Sourced Evaluation of Neuron Explanations
 
-This is the official repo of our paper *Rethinking Crowd-Sourced Evaluation of Neuron Explanations*, full code and results will be released later, please stay tuned.
+This is the official repo of our paper [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://www.arxiv.org/abs/2506.07985). Full code and data will be released later, please stay tuned.
 
  * In this work, we conduct the first crowd-sourced neuron explanation evaluation utilizing a proper evaluation metric, namely correlation coefficient that measures whether the explanation matches neuron activations beyond just the very highest activations
  * We show how to effectively utilize Importance Sampling to select most important inputs to show raters, leading to ∼30× reduction in labeling cost over uniform sampling.
